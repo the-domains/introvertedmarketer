@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[introvertedmarketer]]></title>
         <description><![CDATA[introvertedmarketer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://introvertedmarketer.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 06:15:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Feb 2016 06:21:35 GMT</lastBuildDate>
+        <atom:link href="http://introvertedmarketer.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecf6b8a6-fbcd-490f-92dc-0cace4b77757.jpg">]]></description>
+            <link>http://introvertedmarketer.com/63adbee2-d88c-4bb9-880a-ee7ae512ca81/index.html</link>
+            <guid isPermaLink="false">63adbee2-d88c-4bb9-880a-ee7ae512ca81</guid>
+            <pubDate>Thu, 04 Feb 2016 06:21:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57bed6b1-6b27-45fd-9113-75c03f67d599.jpg">]]></description>
-            <link>undefinede28a9724-bf43-4212-8d4f-4ff4c48809e1/index.html</link>
+            <link>http://introvertedmarketer.com/e28a9724-bf43-4212-8d4f-4ff4c48809e1/index.html</link>
             <guid isPermaLink="false">e28a9724-bf43-4212-8d4f-4ff4c48809e1</guid>
             <pubDate>Thu, 04 Feb 2016 06:14:21 GMT</pubDate>
         </item>
